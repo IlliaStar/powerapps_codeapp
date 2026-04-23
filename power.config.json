@@ -1,9 +1,9 @@
 {
   "version": "1.0",
-  "appId": null,
+  "appId": "8d2b23b5-adff-48e9-9dd6-32733777590c",
   "appDisplayName": "PowerAutomate Code App",
   "region": "prod",
-  "environmentId": "Default-b41b72d0-4e9f-4c26-8a69-f949f367c91d",
+  "environmentId": "5469b2e6-a2ce-ea44-815f-3eb3a9589344",
   "description": "Power Apps code-first application with OpenSpec spec-driven development",
   "buildPath": "dist",
   "buildEntryPoint": "index.html",
